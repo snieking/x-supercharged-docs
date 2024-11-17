@@ -1,0 +1,11 @@
+x-supercharged-docs/
+├── _config.yml
+├── _layouts/
+│   └── default.html
+├── assets/
+│   └── css/
+│       └── style.css
+├── index.md
+├── privacy-policy.md
+├── terms-of-service.md
+└── README.md 

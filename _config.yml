@@ -1,0 +1,8 @@
+title: X: Supercharged Documentation
+description: Documentation for X: Supercharged Chrome Extension - Mute content and share filters
+baseurl: "/x-supercharged-docs"
+url: "https://yourusername.github.io"
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal 
